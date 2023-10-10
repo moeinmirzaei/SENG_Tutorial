@@ -10,3 +10,7 @@ class Calculator:
     @staticmethod
     def multiply(a, b):
         return a * b
+
+    @staticmethod
+    def divide(a, b):
+        return a / b
